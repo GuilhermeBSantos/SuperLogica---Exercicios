@@ -69,9 +69,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ### Start Project
 
 Para fazer o projeto funcionar, execute o arquivo bd.sql dê os seguintes comandos:
+
 composer update
+
 php artisan migrate
+
 npm install
+
 npm run dev
 
 As configurações de banco ficam no arquivo .env
