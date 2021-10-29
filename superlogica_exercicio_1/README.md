@@ -63,3 +63,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+### Start Project
+
+Para fazer o projeto funcionar, execute o arquivo bd.sql dê os seguintes comandos:
+composer update
+php artisan migrate
+npm install
+npm run dev
+
+As configurações de banco ficam no arquivo .env
