@@ -28,7 +28,8 @@
     else{
         echo "Não Existe o valor 14 <br/>";
     }
-    echo $string_array;
+    
+    //6) Crie uma condição para verificar se existe o valor 14 no array
 
     echo "<br/>";
     echo ($new_array);
